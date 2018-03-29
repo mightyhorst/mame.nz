@@ -3191,12 +3191,14 @@ ul.mega-menu {
 	height: 400px;
 }
 	.gla_flower img {
-		width: 100%;
-		height: 100%;
-		position: absolute;
-		left: 0;
-		top: 0;
-		border-radius: 50%;
+		
+	    /* width: 100%; */
+	    height: 100%;
+	    position: absolute;
+	    left: 50px;
+	    top: 0;
+	    border-radius: 50%;
+		
 	}
 .gla_nimated_flower {
 	-webkit-transition-delay: 0.3s;
